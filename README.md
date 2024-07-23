@@ -68,15 +68,7 @@ We welcome contributions from the community. To contribute:
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a Pull Request.
 
-Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-## Community
-
-Join our community and stay updated with the latest news and discussions:
-
-- [Discord](#)
-- [Twitter](#)
-- [Instagram](#)
+Please read our [Contributing Guidelines](CONTRIBUTING.md) for more.
 
 ## License
 
@@ -86,7 +78,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions or inquiries, feel free to reach out to us:
 
-- Email: [contact@digitalblizz.com](mailto:contact@digitalblizz.com)
-- GitHub Issues: [Create an issue](https://github.com/DigitalBlizz/ai-generate/issues)
+- Email: [suport@digital-blizz.com](mailto:support@digital-blizz.com)
+- GitHub Issues: [Create an issue](https://github.com/Digital-Blizz/ai-generate/issues)
 
 Thank you for being a part of the AI Generate Project!
